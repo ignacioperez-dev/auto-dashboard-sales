@@ -1,0 +1,38 @@
+database:
+  url: "postgresql+psycopg://usuario_dev:clave_dev@localhost:5432/auto_dashboard_dev"
+
+app:
+  debug: true
+  port: 8501
+  allowed_hosts:
+    - "localhost"
+    - "127.0.0.1"
+  csv_encoding: "utf-8"
+  max_upload_mb: 15
+
+paths:
+  raw_data: "data/raw/"
+  processed_data: "data/processed/"
+  sample_data: "data/sample/"
+  uploads_dir: "data/uploads/"
+
+uploads:
+  storage_backend: "db"       # o "fs" si preferís file system
+  table: "uploads"
+  store_original_file: true
+
+logging:
+  level: "DEBUG"
+  format: "%(asctime)s - %(levelname)s - %(name)s - %(message)s"
+
+features:
+  enable_experimental: true
+  compute_associations: true
+  default_kpis:
+    - revenue
+    - avg_ticket
+    - top_customers
+    - churn
+
+ui:
+  wide_mode: true

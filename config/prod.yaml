@@ -1,0 +1,38 @@
+database:
+  url: "postgresql+psycopg://usuario_prod:clave_prod@midominio.com:5432/auto_dashboard_prod"
+
+app:
+  debug: false
+  port: 8501
+  allowed_hosts:
+    - "midominio.com"
+    - "www.midominio.com"
+  csv_encoding: "utf-8"
+  max_upload_mb: 15
+
+paths:
+  raw_data: "data/raw/"
+  processed_data: "data/processed/"
+  sample_data: "data/sample/"
+  uploads_dir: "data/uploads/"
+
+uploads:
+  storage_backend: "db"
+  table: "uploads"
+  store_original_file: false
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(levelname)s - %(name)s - %(message)s"
+
+features:
+  enable_experimental: false
+  compute_associations: true
+  default_kpis:
+    - revenue
+    - avg_ticket
+    - top_customers
+    - churn
+
+ui:
+  wide_mode: true

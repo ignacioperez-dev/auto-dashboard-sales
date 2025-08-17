@@ -1,0 +1,74 @@
+default_language_version:
+  python: python3.13.5
+
+exclude: |
+  (?x)^(
+    # Carpetas de datos y outputs
+    data/|
+    uploads/|
+    reports/|
+    
+    # Entornos virtuales
+    \.venv/|
+    venv/|
+    
+    # Carpetas de build/distribución
+    build/|
+    dist/|
+    
+    # Metadatos de Git y caches
+    \.git/|
+    \.mypy_cache/|
+    \.ruff_cache/|
+    \.pytest_cache/|
+    __pycache__/|
+    
+    # Frontend o JS
+    node_modules/|
+    
+    # Archivos temporales y backups
+    .*\.log|
+    .*\.tmp|
+    .*\.bak|
+    .*\.swp|
+    .*~|
+    
+    # Bases de datos locales
+    .*\.db|
+    .*\.sqlite3?|
+    
+    # Otros binarios
+    .*\.png|
+    .*\.jpg|
+    .*\.jpeg|
+    .*\.gif|
+    .*\.pdf|
+    .*\.zip|
+    .*\.tar\.gz|
+    .*\.7z
+  )
+
+
+repos:
+  - repo: https://github.com/psf/black
+    rev: 24.8.0
+    hooks:
+      - id: black
+        language_version: python3
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.4.10
+    hooks:
+      - id: ruff
+        args: ["--fix"]
+
+  - repo: local
+    hooks:
+      - id: pytest
+        name: pytest
+        entry: pytest
+        args: ["-q"]
+        language: python
+        pass_filenames: false
+        additional_dependencies: ["pytest>=8", "pyyaml>=6.0", "python-dotenv>=1.0.0"]
+        stages: [pre-commit, pre-push]
