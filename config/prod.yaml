@@ -1,5 +1,5 @@
 database:
-  url: "postgresql+psycopg://usuario_prod:clave_prod@midominio.com:5432/auto_dashboard_prod"
+  url: "postgresql+psycopg://${DB_USER}:${DB_PASS}@${DB_HOST}:${DB_PORT:-5432}/${DB_NAME}"
 
 app:
   debug: false

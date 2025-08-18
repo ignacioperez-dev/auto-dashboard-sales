@@ -1,5 +1,5 @@
 database:
-  url: "postgresql+psycopg://usuario_dev:clave_dev@localhost:5432/auto_dashboard_dev"
+  url: "postgresql+psycopg://${DB_USER_DEV}:${DB_PASS_DEV}@${DB_HOST_DEV:-localhost}:${DB_PORT_DEV:-5432}/${DB_NAME_DEV:-auto_dashboard_dev}"
 
 app:
   debug: true
@@ -17,7 +17,7 @@ paths:
   uploads_dir: "data/uploads/"
 
 uploads:
-  storage_backend: "db"       # o "fs" si preferís file system
+  storage_backend: "db"          # "db" o "fs"
   table: "uploads"
   store_original_file: true
 
@@ -36,3 +36,4 @@ features:
 
 ui:
   wide_mode: true
+

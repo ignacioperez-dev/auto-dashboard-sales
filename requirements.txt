@@ -1,8 +1,18 @@
-pandas
-streamlit
-plotly
-openpyxl
-psycopg[binary]
-python-dotenv
-pyyaml
+# Análisis y manipulación de datos
+pandas>=2.0.0,<3.0.0
 
+# Visualización e interfaz
+streamlit>=1.25.0,<2.0.0
+plotly>=5.15.0,<6.0.0
+
+# Lectura/escritura de Excel
+openpyxl>=3.1.0,<4.0.0
+
+# Base de datos
+psycopg[binary]>=3.1.0,<4.0.0
+
+# Variables de entorno
+python-dotenv>=1.0.0,<2.0.0
+
+# Lectura de YAML
+pyyaml>=6.0.0,<7.0.0

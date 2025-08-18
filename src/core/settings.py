@@ -14,6 +14,26 @@ CONFIG_DIR = ROOT_DIR / "config"
 load_dotenv(dotenv_path=ROOT_DIR / ".env", override=False)
 
 
+# --- Helpers ---
+def _expand_env(value: Any) -> Any:
+    """Expande ${VAR} en strings usando el entorno."""
+    if isinstance(value, str):
+        return os.path.expandvars(value)
+    if isinstance(value, dict):
+        return {k: _expand_env(v) for k, v in value.items()}
+    if isinstance(value, list):
+        return [_expand_env(v) for v in value]
+    return value
+
+
+def _coerce_bool(val: Any) -> bool:
+    if isinstance(val, bool):
+        return val
+    if isinstance(val, str):
+        return val.strip().lower() in {"1", "true", "yes", "on"}
+    return bool(val)
+
+
 def _deep_get(d: dict[str, Any], path: str, default: Any = None) -> Any:
     """Obtiene una clave anidada del dict usando 'a.b.c'. Devuelve default si no existe."""
     cur: Any = d
@@ -29,13 +49,15 @@ def _read_yaml(p: Path) -> dict[str, Any]:
         data = yaml.safe_load(f) or {}
     if not isinstance(data, dict):
         raise ValueError(f"El YAML debe tener un objeto dict en la raíz: {p}")
-    return data
+    return _expand_env(data)
 
 
+# --- Settings ---
 class Settings:
     """
     Config central del proyecto.
     - Lee config/{APP_ENV}.yaml
+    - Expande ${VAR} usando .env / entorno
     - Permite overrides por variables de entorno (ej: DB_URL, SECRET_KEY)
     """
 
@@ -56,7 +78,7 @@ class Settings:
 
     @property
     def app_debug(self) -> bool:
-        return bool(self.get("app.debug", False))
+        return _coerce_bool(self.get("app.debug", False))
 
     @property
     def app_port(self) -> int:
@@ -64,11 +86,20 @@ class Settings:
 
     @property
     def allowed_hosts(self) -> list[str]:
+        val = os.getenv("ALLOWED_HOSTS")
+        if val:
+            return [h.strip() for h in val.split(",")]
         return list(self.get("app.allowed_hosts", []))
 
     @property
     def data_paths(self) -> dict[str, str]:
         return dict(self.get("paths", {}))
+
+    @property
+    def experimental_enabled(self) -> bool:
+        return _coerce_bool(
+            os.getenv("ENABLE_EXPERIMENTAL") or self.get("features.enable_experimental", False)
+        )
 
 
 def load_settings() -> Settings:
