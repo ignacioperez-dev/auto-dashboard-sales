@@ -20,5 +20,8 @@ repos:
         - pytest
         - pyyaml
         - python-dotenv
+        - pandas
+        - openpyxl
+        - pathlib
         pass_filenames: false
         stages: [pre-commit]

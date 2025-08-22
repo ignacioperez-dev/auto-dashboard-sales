@@ -1,0 +1,3 @@
+Este es un archivo de texto plano.
+No debería ser soportado por la función leer_archivo().
+Solo es para testear que devuelve None.

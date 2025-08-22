@@ -1,0 +1,1002 @@
+[
+  {
+    "producto": "Impresora",
+    "factura": "F2718",
+    "cliente": "Hugo Conrado Gómez Fernández",
+    "cantidad": 1,
+    "PrecioUnitario": 150,
+    "Monto": 150,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-23"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F7013",
+    "cliente": "Angelino Santos Amo",
+    "cantidad": 4,
+    "PrecioUnitario": 120,
+    "Monto": 480,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-25"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F6569",
+    "cliente": "Jacobo Huerta Aguado",
+    "cantidad": 3,
+    "PrecioUnitario": 100,
+    "Monto": 300,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-14"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F4267",
+    "cliente": "Fermín Murillo Moles",
+    "cantidad": 1,
+    "PrecioUnitario": 50,
+    "Monto": 50,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-05"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F4896",
+    "cliente": "Domitila Marquez",
+    "cantidad": 3,
+    "PrecioUnitario": 20,
+    "Monto": 60,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-18"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F3144",
+    "cliente": "Atilio Villanueva Cantero",
+    "cantidad": 9,
+    "PrecioUnitario": 100,
+    "Monto": 900,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-25"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F6320",
+    "cliente": "Alex Olivé Barranco",
+    "cantidad": 10,
+    "PrecioUnitario": 100,
+    "Monto": 1000,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-04"
+  },
+  {
+    "producto": "Mousepad",
+    "factura": "F7523",
+    "cliente": "Chus Uribe-Marcos",
+    "cantidad": 6,
+    "PrecioUnitario": 30,
+    "Monto": 180,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-01"
+  },
+  {
+    "producto": "Teclado",
+    "factura": "F1445",
+    "cliente": "Eva María del Benet",
+    "cantidad": 7,
+    "PrecioUnitario": 25,
+    "Monto": 175,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-23"
+  },
+  {
+    "producto": "Impresora",
+    "factura": "F4680",
+    "cliente": "Verónica Sola Jara",
+    "cantidad": 2,
+    "PrecioUnitario": 150,
+    "Monto": 300,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-06"
+  },
+  {
+    "producto": "Auriculares",
+    "factura": "F9872",
+    "cliente": "Crescencia Peral-Casas",
+    "cantidad": 4,
+    "PrecioUnitario": 40,
+    "Monto": 160,
+    "categoría": "Otros",
+    "Fecha": "2023-07-16"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F6508",
+    "cliente": "Guiomar Omar Rodriguez Vila",
+    "cantidad": 10,
+    "PrecioUnitario": 30,
+    "Monto": 300,
+    "categoría": "Otros",
+    "Fecha": "2023-07-09"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F7878",
+    "cliente": "Violeta Gallo Cortina",
+    "cantidad": 5,
+    "PrecioUnitario": 20,
+    "Monto": 100,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-08"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F5137",
+    "cliente": "Amarilis Gimenez-Plaza",
+    "cantidad": 8,
+    "PrecioUnitario": 20,
+    "Monto": 160,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-05"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F1238",
+    "cliente": "Gastón Ángel Terrón",
+    "cantidad": 8,
+    "PrecioUnitario": 20,
+    "Monto": 160,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-04"
+  },
+  {
+    "producto": "Teclado",
+    "factura": "F4586",
+    "cliente": "Natalio Lara Villena",
+    "cantidad": 3,
+    "PrecioUnitario": 25,
+    "Monto": 75,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-14"
+  },
+  {
+    "producto": "Impresora",
+    "factura": "F3099",
+    "cliente": "Hortensia de Solé",
+    "cantidad": 2,
+    "PrecioUnitario": 150,
+    "Monto": 300,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-03"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F6320",
+    "cliente": "Prudencia Espinosa Viñas",
+    "cantidad": 2,
+    "PrecioUnitario": 350,
+    "Monto": 700,
+    "categoría": "Otros",
+    "Fecha": "2023-07-28"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F7262",
+    "cliente": "Brunilda Reig Paniagua",
+    "cantidad": 1,
+    "PrecioUnitario": 120,
+    "Monto": 120,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-15"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F8165",
+    "cliente": "Pili Vega-Almazán",
+    "cantidad": 2,
+    "PrecioUnitario": 20,
+    "Monto": 40,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-06"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F1953",
+    "cliente": "Eleuterio Izquierdo Toledo",
+    "cantidad": 6,
+    "PrecioUnitario": 100,
+    "Monto": 600,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-01"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F4991",
+    "cliente": "Manolo Galván Quiroga",
+    "cantidad": 6,
+    "PrecioUnitario": 20,
+    "Monto": 120,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-19"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F6326",
+    "cliente": "Emilio Román-Campos",
+    "cantidad": 1,
+    "PrecioUnitario": 350,
+    "Monto": 350,
+    "categoría": "Otros",
+    "Fecha": "2023-07-01"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F7027",
+    "cliente": "Yolanda Cabeza-Alvarado",
+    "cantidad": 7,
+    "PrecioUnitario": 120,
+    "Monto": 840,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-27"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F3358",
+    "cliente": "Dionisio Neira Barranco",
+    "cantidad": 2,
+    "PrecioUnitario": 350,
+    "Monto": 700,
+    "categoría": "Otros",
+    "Fecha": "2023-07-22"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F7275",
+    "cliente": "Concha Cañellas",
+    "cantidad": 1,
+    "PrecioUnitario": 20,
+    "Monto": 20,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-09"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F3046",
+    "cliente": "Jose Ramón Iniesta Montserrat",
+    "cantidad": 5,
+    "PrecioUnitario": 50,
+    "Monto": 250,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-03"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F1669",
+    "cliente": "Gaspar Flavio Calatayud Ramón",
+    "cantidad": 10,
+    "PrecioUnitario": 20,
+    "Monto": 200,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-22"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F5240",
+    "cliente": "Tomás de Olmedo",
+    "cantidad": 7,
+    "PrecioUnitario": 100,
+    "Monto": 700,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-20"
+  },
+  {
+    "producto": "Auriculares",
+    "factura": "F3960",
+    "cliente": "Adela Felipa Morera Blanco",
+    "cantidad": 10,
+    "PrecioUnitario": 40,
+    "Monto": 400,
+    "categoría": "Otros",
+    "Fecha": "2023-07-01"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F4169",
+    "cliente": "Ramiro del Vives",
+    "cantidad": 9,
+    "PrecioUnitario": 350,
+    "Monto": 3150,
+    "categoría": "Otros",
+    "Fecha": "2023-07-17"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F6912",
+    "cliente": "Maxi Arcos Sainz",
+    "cantidad": 4,
+    "PrecioUnitario": 120,
+    "Monto": 480,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-15"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F3938",
+    "cliente": "Bautista del Vilaplana",
+    "cantidad": 2,
+    "PrecioUnitario": 50,
+    "Monto": 100,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-16"
+  },
+  {
+    "producto": "Teclado",
+    "factura": "F4560",
+    "cliente": "Emma Linares Lasa",
+    "cantidad": 3,
+    "PrecioUnitario": 25,
+    "Monto": 75,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-15"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F9459",
+    "cliente": "Sonia Romeu Carranza",
+    "cantidad": 9,
+    "PrecioUnitario": 50,
+    "Monto": 450,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-17"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F6260",
+    "cliente": "Yolanda Gascón Alegre",
+    "cantidad": 7,
+    "PrecioUnitario": 350,
+    "Monto": 2450,
+    "categoría": "Otros",
+    "Fecha": "2023-07-19"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F3458",
+    "cliente": "Victor Marqués Cabezas",
+    "cantidad": 9,
+    "PrecioUnitario": 350,
+    "Monto": 3150,
+    "categoría": "Otros",
+    "Fecha": "2023-07-07"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F3840",
+    "cliente": "Chuy Díaz Velasco",
+    "cantidad": 1,
+    "PrecioUnitario": 120,
+    "Monto": 120,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-06"
+  },
+  {
+    "producto": "Auriculares",
+    "factura": "F4159",
+    "cliente": "Flavia Verdugo Nevado",
+    "cantidad": 4,
+    "PrecioUnitario": 40,
+    "Monto": 160,
+    "categoría": "Otros",
+    "Fecha": "2023-07-15"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F2929",
+    "cliente": "Rufino Palacio Gomila",
+    "cantidad": 10,
+    "PrecioUnitario": 50,
+    "Monto": 500,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-26"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F1827",
+    "cliente": "Carolina Goicoechea Roman",
+    "cantidad": 1,
+    "PrecioUnitario": 30,
+    "Monto": 30,
+    "categoría": "Otros",
+    "Fecha": "2023-07-14"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F8099",
+    "cliente": "Luisina Gascón Girona",
+    "cantidad": 1,
+    "PrecioUnitario": 20,
+    "Monto": 20,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-08"
+  },
+  {
+    "producto": "Auriculares",
+    "factura": "F1404",
+    "cliente": "Concepción María Jesús Llorente Chamorro",
+    "cantidad": 6,
+    "PrecioUnitario": 40,
+    "Monto": 240,
+    "categoría": "Otros",
+    "Fecha": "2023-07-10"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F6638",
+    "cliente": "Hermenegildo de Rivera",
+    "cantidad": 4,
+    "PrecioUnitario": 30,
+    "Monto": 120,
+    "categoría": "Otros",
+    "Fecha": "2023-07-23"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F5071",
+    "cliente": "Marina Lladó Llorens",
+    "cantidad": 9,
+    "PrecioUnitario": 50,
+    "Monto": 450,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-15"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F8390",
+    "cliente": "Humberto Gelabert Pinilla",
+    "cantidad": 6,
+    "PrecioUnitario": 30,
+    "Monto": 180,
+    "categoría": "Otros",
+    "Fecha": "2023-07-04"
+  },
+  {
+    "producto": "Auriculares",
+    "factura": "F2744",
+    "cliente": "Ernesto Paco Nadal Casares",
+    "cantidad": 4,
+    "PrecioUnitario": 40,
+    "Monto": 160,
+    "categoría": "Otros",
+    "Fecha": "2023-07-12"
+  },
+  {
+    "producto": "Mousepad",
+    "factura": "F9782",
+    "cliente": "Cesar Conesa Bravo",
+    "cantidad": 8,
+    "PrecioUnitario": 30,
+    "Monto": 240,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-12"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F5411",
+    "cliente": "Jordana Morera Nadal",
+    "cantidad": 9,
+    "PrecioUnitario": 100,
+    "Monto": 900,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-11"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F3432",
+    "cliente": "Tomás Varela Pinedo",
+    "cantidad": 10,
+    "PrecioUnitario": 100,
+    "Monto": 1000,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-14"
+  },
+  {
+    "producto": "Mousepad",
+    "factura": "F9477",
+    "cliente": "Humberto Saez Gonzalez",
+    "cantidad": 3,
+    "PrecioUnitario": 30,
+    "Monto": 90,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-04"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F3740",
+    "cliente": "Benigna Trujillo",
+    "cantidad": 4,
+    "PrecioUnitario": 50,
+    "Monto": 200,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-15"
+  },
+  {
+    "producto": "Teclado",
+    "factura": "F2417",
+    "cliente": "Natalia Angelina Adadia Uría",
+    "cantidad": 1,
+    "PrecioUnitario": 25,
+    "Monto": 25,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-15"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F7951",
+    "cliente": "Chelo Hidalgo Sanmiguel",
+    "cantidad": 9,
+    "PrecioUnitario": 100,
+    "Monto": 900,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-30"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F1782",
+    "cliente": "Paula Cánovas Simó",
+    "cantidad": 10,
+    "PrecioUnitario": 20,
+    "Monto": 200,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-17"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F6734",
+    "cliente": "Plácido Guillermo Calvet Segura",
+    "cantidad": 1,
+    "PrecioUnitario": 350,
+    "Monto": 350,
+    "categoría": "Otros",
+    "Fecha": "2023-07-08"
+  },
+  {
+    "producto": "Mousepad",
+    "factura": "F4010",
+    "cliente": "Belen Campillo Zabala",
+    "cantidad": 10,
+    "PrecioUnitario": 30,
+    "Monto": 300,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-20"
+  },
+  {
+    "producto": "Teclado",
+    "factura": "F1273",
+    "cliente": "Mariano Rosado Cantero",
+    "cantidad": 6,
+    "PrecioUnitario": 25,
+    "Monto": 150,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-06"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F1467",
+    "cliente": "Toni Hurtado",
+    "cantidad": 8,
+    "PrecioUnitario": 30,
+    "Monto": 240,
+    "categoría": "Otros",
+    "Fecha": "2023-07-09"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F9984",
+    "cliente": "Josep Garrido",
+    "cantidad": 1,
+    "PrecioUnitario": 30,
+    "Monto": 30,
+    "categoría": "Otros",
+    "Fecha": "2023-07-22"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F9233",
+    "cliente": "Román Díaz Miranda",
+    "cantidad": 9,
+    "PrecioUnitario": 350,
+    "Monto": 3150,
+    "categoría": "Otros",
+    "Fecha": "2023-07-01"
+  },
+  {
+    "producto": "Mousepad",
+    "factura": "F5573",
+    "cliente": "Amado Nico Cabezas Carro",
+    "cantidad": 4,
+    "PrecioUnitario": 30,
+    "Monto": 120,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-29"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F6367",
+    "cliente": "Aroa de Machado",
+    "cantidad": 9,
+    "PrecioUnitario": 30,
+    "Monto": 270,
+    "categoría": "Otros",
+    "Fecha": "2023-07-25"
+  },
+  {
+    "producto": "Auriculares",
+    "factura": "F2901",
+    "cliente": "África Diez Ferrando",
+    "cantidad": 3,
+    "PrecioUnitario": 40,
+    "Monto": 120,
+    "categoría": "Otros",
+    "Fecha": "2023-07-23"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F7114",
+    "cliente": "Luciano Patricio Portillo Mariño",
+    "cantidad": 7,
+    "PrecioUnitario": 20,
+    "Monto": 140,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-16"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F7164",
+    "cliente": "Ale Segarra Cal",
+    "cantidad": 9,
+    "PrecioUnitario": 50,
+    "Monto": 450,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-26"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F9778",
+    "cliente": "Domitila Leyre Gual Ribes",
+    "cantidad": 7,
+    "PrecioUnitario": 30,
+    "Monto": 210,
+    "categoría": "Otros",
+    "Fecha": "2023-07-14"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F1452",
+    "cliente": "Atilio Mate Bernal",
+    "cantidad": 5,
+    "PrecioUnitario": 350,
+    "Monto": 1750,
+    "categoría": "Otros",
+    "Fecha": "2023-07-19"
+  },
+  {
+    "producto": "Impresora",
+    "factura": "F1958",
+    "cliente": "Adriana Crespo Nogueira",
+    "cantidad": 1,
+    "PrecioUnitario": 150,
+    "Monto": 150,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-22"
+  },
+  {
+    "producto": "Auriculares",
+    "factura": "F3327",
+    "cliente": "Dorotea Hervás Calderon",
+    "cantidad": 10,
+    "PrecioUnitario": 40,
+    "Monto": 400,
+    "categoría": "Otros",
+    "Fecha": "2023-07-10"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F2779",
+    "cliente": "Eusebio Pujol Ferrando",
+    "cantidad": 9,
+    "PrecioUnitario": 30,
+    "Monto": 270,
+    "categoría": "Otros",
+    "Fecha": "2023-07-06"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F4091",
+    "cliente": "María José Vallejo Guerrero",
+    "cantidad": 1,
+    "PrecioUnitario": 120,
+    "Monto": 120,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-04"
+  },
+  {
+    "producto": "Auriculares",
+    "factura": "F1156",
+    "cliente": "Reyes Luz Albero",
+    "cantidad": 8,
+    "PrecioUnitario": 40,
+    "Monto": 320,
+    "categoría": "Otros",
+    "Fecha": "2023-07-14"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F2295",
+    "cliente": "Toño Lupe Montoya Sarabia",
+    "cantidad": 1,
+    "PrecioUnitario": 30,
+    "Monto": 30,
+    "categoría": "Otros",
+    "Fecha": "2023-07-19"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F6728",
+    "cliente": "Ismael Ramos-Revilla",
+    "cantidad": 9,
+    "PrecioUnitario": 120,
+    "Monto": 1080,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-07"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F1763",
+    "cliente": "Herminio Fuente-Arribas",
+    "cantidad": 4,
+    "PrecioUnitario": 20,
+    "Monto": 80,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-01"
+  },
+  {
+    "producto": "Impresora",
+    "factura": "F9136",
+    "cliente": "Alcides Roura Hidalgo",
+    "cantidad": 2,
+    "PrecioUnitario": 150,
+    "Monto": 300,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-13"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F7525",
+    "cliente": "Alex Carmona Torrijos",
+    "cantidad": 2,
+    "PrecioUnitario": 350,
+    "Monto": 700,
+    "categoría": "Otros",
+    "Fecha": "2023-07-26"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F5166",
+    "cliente": "Agapito Leon Ortiz",
+    "cantidad": 2,
+    "PrecioUnitario": 30,
+    "Monto": 60,
+    "categoría": "Otros",
+    "Fecha": "2023-07-17"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F9854",
+    "cliente": "Adriana Franco-Carbonell",
+    "cantidad": 1,
+    "PrecioUnitario": 350,
+    "Monto": 350,
+    "categoría": "Otros",
+    "Fecha": "2023-07-14"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F6296",
+    "cliente": "Eliana Sanabria Reyes",
+    "cantidad": 4,
+    "PrecioUnitario": 30,
+    "Monto": 120,
+    "categoría": "Otros",
+    "Fecha": "2023-07-29"
+  },
+  {
+    "producto": "Teclado",
+    "factura": "F4290",
+    "cliente": "Felicidad Iniesta-Tudela",
+    "cantidad": 4,
+    "PrecioUnitario": 25,
+    "Monto": 100,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-21"
+  },
+  {
+    "producto": "Notebook",
+    "factura": "F9988",
+    "cliente": "Bonifacio del Aguado",
+    "cantidad": 1,
+    "PrecioUnitario": 350,
+    "Monto": 350,
+    "categoría": "Otros",
+    "Fecha": "2023-07-28"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F5186",
+    "cliente": "Rebeca Luisina Pineda Atienza",
+    "cantidad": 4,
+    "PrecioUnitario": 50,
+    "Monto": 200,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-22"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F9179",
+    "cliente": "Aitor de Millán",
+    "cantidad": 8,
+    "PrecioUnitario": 100,
+    "Monto": 800,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-14"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F3867",
+    "cliente": "Dionisia Figueras Agudo",
+    "cantidad": 8,
+    "PrecioUnitario": 100,
+    "Monto": 800,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-01"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F1388",
+    "cliente": "Amaya Cervera Coca",
+    "cantidad": 8,
+    "PrecioUnitario": 50,
+    "Monto": 400,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-03"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F5249",
+    "cliente": "Noé Sotelo Calvet",
+    "cantidad": 7,
+    "PrecioUnitario": 30,
+    "Monto": 210,
+    "categoría": "Otros",
+    "Fecha": "2023-07-27"
+  },
+  {
+    "producto": "Microfono",
+    "factura": "F1017",
+    "cliente": "Loreto Fidela Llopis Bayona",
+    "cantidad": 10,
+    "PrecioUnitario": 30,
+    "Monto": 300,
+    "categoría": "Otros",
+    "Fecha": "2023-07-05"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F3895",
+    "cliente": "Adán Hernando-Dávila",
+    "cantidad": 1,
+    "PrecioUnitario": 50,
+    "Monto": 50,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-24"
+  },
+  {
+    "producto": "Webcam",
+    "factura": "F2369",
+    "cliente": "Elodia Maricela Comas Montserrat",
+    "cantidad": 9,
+    "PrecioUnitario": 50,
+    "Monto": 450,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-08"
+  },
+  {
+    "producto": "Mouse",
+    "factura": "F7736",
+    "cliente": "José Manuel Lobo Arnaiz",
+    "cantidad": 10,
+    "PrecioUnitario": 20,
+    "Monto": 200,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-06"
+  },
+  {
+    "producto": "Mousepad",
+    "factura": "F7195",
+    "cliente": "Serafina Abascal",
+    "cantidad": 9,
+    "PrecioUnitario": 30,
+    "Monto": 270,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-29"
+  },
+  {
+    "producto": "Auriculares",
+    "factura": "F3963",
+    "cliente": "Vicenta Baeza Cortes",
+    "cantidad": 1,
+    "PrecioUnitario": 40,
+    "Monto": 40,
+    "categoría": "Otros",
+    "Fecha": "2023-07-21"
+  },
+  {
+    "producto": "Teclado",
+    "factura": "F2354",
+    "cliente": "Fabiana Lopez Casal",
+    "cantidad": 3,
+    "PrecioUnitario": 25,
+    "Monto": 75,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-18"
+  },
+  {
+    "producto": "Monitor",
+    "factura": "F5837",
+    "cliente": "María Moll Valera",
+    "cantidad": 2,
+    "PrecioUnitario": 100,
+    "Monto": 200,
+    "categoría": "Periféricos",
+    "Fecha": "2023-07-14"
+  },
+  {
+    "producto": "Mousepad",
+    "factura": "F2730",
+    "cliente": "Gastón Julián Romeu",
+    "cantidad": 7,
+    "PrecioUnitario": 30,
+    "Monto": 210,
+    "categoría": "Accesorios",
+    "Fecha": "2023-07-19"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F1377",
+    "cliente": "Manolo Bermudez Calderon",
+    "cantidad": 2,
+    "PrecioUnitario": 120,
+    "Monto": 240,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-18"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F5495",
+    "cliente": "Adelia del Arteaga",
+    "cantidad": 10,
+    "PrecioUnitario": 120,
+    "Monto": 1200,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-07"
+  },
+  {
+    "producto": "Tablet",
+    "factura": "F4632",
+    "cliente": "Teodora Aroca Miralles",
+    "cantidad": 8,
+    "PrecioUnitario": 120,
+    "Monto": 960,
+    "categoría": "Tablets",
+    "Fecha": "2023-07-14"
+  }
+]

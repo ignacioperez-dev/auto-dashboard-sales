@@ -1,0 +1,101 @@
+producto,factura,cliente,Fecha,cantidad,PrecioUnitario,Monto,categoría
+Impresora,F2718,Hugo Conrado Gómez Fernández,2023-07-23,1,150,150,Periféricos
+Tablet,F7013,Angelino Santos Amo,2023-07-25,4,120,480,Tablets
+Monitor,F6569,Jacobo Huerta Aguado,2023-07-14,3,100,300,Periféricos
+Webcam,F4267,Fermín Murillo Moles,2023-07-05,1,50,50,Periféricos
+Mouse,F4896,Domitila Marquez,2023-07-18,3,20,60,Accesorios
+Monitor,F3144,Atilio Villanueva Cantero,2023-07-25,9,100,900,Periféricos
+Monitor,F6320,Alex Olivé Barranco,2023-07-04,10,100,1000,Periféricos
+Mousepad,F7523,Chus Uribe-Marcos,2023-07-01,6,30,180,Accesorios
+Teclado,F1445,Eva María del Benet,2023-07-23,7,25,175,Accesorios
+Impresora,F4680,Verónica Sola Jara,2023-07-06,2,150,300,Periféricos
+Auriculares,F9872,Crescencia Peral-Casas,2023-07-16,4,40,160,Otros
+Microfono,F6508,Guiomar Omar Rodriguez Vila,2023-07-09,10,30,300,Otros
+Mouse,F7878,Violeta Gallo Cortina,2023-07-08,5,20,100,Accesorios
+Mouse,F5137,Amarilis Gimenez-Plaza,2023-07-05,8,20,160,Accesorios
+Mouse,F1238,Gastón Ángel Terrón,2023-07-04,8,20,160,Accesorios
+Teclado,F4586,Natalio Lara Villena,2023-07-14,3,25,75,Accesorios
+Impresora,F3099,Hortensia de Solé,2023-07-03,2,150,300,Periféricos
+Notebook,F6320,Prudencia Espinosa Viñas,2023-07-28,2,350,700,Otros
+Tablet,F7262,Brunilda Reig Paniagua,2023-07-15,1,120,120,Tablets
+Mouse,F8165,Pili Vega-Almazán,2023-07-06,2,20,40,Accesorios
+Monitor,F1953,Eleuterio Izquierdo Toledo,2023-07-01,6,100,600,Periféricos
+Mouse,F4991,Manolo Galván Quiroga,2023-07-19,6,20,120,Accesorios
+Notebook,F6326,Emilio Román-Campos,2023-07-01,1,350,350,Otros
+Tablet,F7027,Yolanda Cabeza-Alvarado,2023-07-27,7,120,840,Tablets
+Notebook,F3358,Dionisio Neira Barranco,2023-07-22,2,350,700,Otros
+Mouse,F7275,Concha Cañellas,2023-07-09,1,20,20,Accesorios
+Webcam,F3046,Jose Ramón Iniesta Montserrat,2023-07-03,5,50,250,Periféricos
+Mouse,F1669,Gaspar Flavio Calatayud Ramón,2023-07-22,10,20,200,Accesorios
+Monitor,F5240,Tomás de Olmedo,2023-07-20,7,100,700,Periféricos
+Auriculares,F3960,Adela Felipa Morera Blanco,2023-07-01,10,40,400,Otros
+Notebook,F4169,Ramiro del Vives,2023-07-17,9,350,3150,Otros
+Tablet,F6912,Maxi Arcos Sainz,2023-07-15,4,120,480,Tablets
+Webcam,F3938,Bautista del Vilaplana,2023-07-16,2,50,100,Periféricos
+Teclado,F4560,Emma Linares Lasa,2023-07-15,3,25,75,Accesorios
+Webcam,F9459,Sonia Romeu Carranza,2023-07-17,9,50,450,Periféricos
+Notebook,F6260,Yolanda Gascón Alegre,2023-07-19,7,350,2450,Otros
+Notebook,F3458,Victor Marqués Cabezas,2023-07-07,9,350,3150,Otros
+Tablet,F3840,Chuy Díaz Velasco,2023-07-06,1,120,120,Tablets
+Auriculares,F4159,Flavia Verdugo Nevado,2023-07-15,4,40,160,Otros
+Webcam,F2929,Rufino Palacio Gomila,2023-07-26,10,50,500,Periféricos
+Microfono,F1827,Carolina Goicoechea Roman,2023-07-14,1,30,30,Otros
+Mouse,F8099,Luisina Gascón Girona,2023-07-08,1,20,20,Accesorios
+Auriculares,F1404,Concepción María Jesús Llorente Chamorro,2023-07-10,6,40,240,Otros
+Microfono,F6638,Hermenegildo de Rivera,2023-07-23,4,30,120,Otros
+Webcam,F5071,Marina Lladó Llorens,2023-07-15,9,50,450,Periféricos
+Microfono,F8390,Humberto Gelabert Pinilla,2023-07-04,6,30,180,Otros
+Auriculares,F2744,Ernesto Paco Nadal Casares,2023-07-12,4,40,160,Otros
+Mousepad,F9782,Cesar Conesa Bravo,2023-07-12,8,30,240,Accesorios
+Monitor,F5411,Jordana Morera Nadal,2023-07-11,9,100,900,Periféricos
+Monitor,F3432,Tomás Varela Pinedo,2023-07-14,10,100,1000,Periféricos
+Mousepad,F9477,Humberto Saez Gonzalez,2023-07-04,3,30,90,Accesorios
+Webcam,F3740,Benigna Trujillo,2023-07-15,4,50,200,Periféricos
+Teclado,F2417,Natalia Angelina Adadia Uría,2023-07-15,1,25,25,Accesorios
+Monitor,F7951,Chelo Hidalgo Sanmiguel,2023-07-30,9,100,900,Periféricos
+Mouse,F1782,Paula Cánovas Simó,2023-07-17,10,20,200,Accesorios
+Notebook,F6734,Plácido Guillermo Calvet Segura,2023-07-08,1,350,350,Otros
+Mousepad,F4010,Belen Campillo Zabala,2023-07-20,10,30,300,Accesorios
+Teclado,F1273,Mariano Rosado Cantero,2023-07-06,6,25,150,Accesorios
+Microfono,F1467,Toni Hurtado,2023-07-09,8,30,240,Otros
+Microfono,F9984,Josep Garrido,2023-07-22,1,30,30,Otros
+Notebook,F9233,Román Díaz Miranda,2023-07-01,9,350,3150,Otros
+Mousepad,F5573,Amado Nico Cabezas Carro,2023-07-29,4,30,120,Accesorios
+Microfono,F6367,Aroa de Machado,2023-07-25,9,30,270,Otros
+Auriculares,F2901,África Diez Ferrando,2023-07-23,3,40,120,Otros
+Mouse,F7114,Luciano Patricio Portillo Mariño,2023-07-16,7,20,140,Accesorios
+Webcam,F7164,Ale Segarra Cal,2023-07-26,9,50,450,Periféricos
+Microfono,F9778,Domitila Leyre Gual Ribes,2023-07-14,7,30,210,Otros
+Notebook,F1452,Atilio Mate Bernal,2023-07-19,5,350,1750,Otros
+Impresora,F1958,Adriana Crespo Nogueira,2023-07-22,1,150,150,Periféricos
+Auriculares,F3327,Dorotea Hervás Calderon,2023-07-10,10,40,400,Otros
+Microfono,F2779,Eusebio Pujol Ferrando,2023-07-06,9,30,270,Otros
+Tablet,F4091,María José Vallejo Guerrero,2023-07-04,1,120,120,Tablets
+Auriculares,F1156,Reyes Luz Albero,2023-07-14,8,40,320,Otros
+Microfono,F2295,Toño Lupe Montoya Sarabia,2023-07-19,1,30,30,Otros
+Tablet,F6728,Ismael Ramos-Revilla,2023-07-07,9,120,1080,Tablets
+Mouse,F1763,Herminio Fuente-Arribas,2023-07-01,4,20,80,Accesorios
+Impresora,F9136,Alcides Roura Hidalgo,2023-07-13,2,150,300,Periféricos
+Notebook,F7525,Alex Carmona Torrijos,2023-07-26,2,350,700,Otros
+Microfono,F5166,Agapito Leon Ortiz,2023-07-17,2,30,60,Otros
+Notebook,F9854,Adriana Franco-Carbonell,2023-07-14,1,350,350,Otros
+Microfono,F6296,Eliana Sanabria Reyes,2023-07-29,4,30,120,Otros
+Teclado,F4290,Felicidad Iniesta-Tudela,2023-07-21,4,25,100,Accesorios
+Notebook,F9988,Bonifacio del Aguado,2023-07-28,1,350,350,Otros
+Webcam,F5186,Rebeca Luisina Pineda Atienza,2023-07-22,4,50,200,Periféricos
+Monitor,F9179,Aitor de Millán,2023-07-14,8,100,800,Periféricos
+Monitor,F3867,Dionisia Figueras Agudo,2023-07-01,8,100,800,Periféricos
+Webcam,F1388,Amaya Cervera Coca,2023-07-03,8,50,400,Periféricos
+Microfono,F5249,Noé Sotelo Calvet,2023-07-27,7,30,210,Otros
+Microfono,F1017,Loreto Fidela Llopis Bayona,2023-07-05,10,30,300,Otros
+Webcam,F3895,Adán Hernando-Dávila,2023-07-24,1,50,50,Periféricos
+Webcam,F2369,Elodia Maricela Comas Montserrat,2023-07-08,9,50,450,Periféricos
+Mouse,F7736,José Manuel Lobo Arnaiz,2023-07-06,10,20,200,Accesorios
+Mousepad,F7195,Serafina Abascal,2023-07-29,9,30,270,Accesorios
+Auriculares,F3963,Vicenta Baeza Cortes,2023-07-21,1,40,40,Otros
+Teclado,F2354,Fabiana Lopez Casal,2023-07-18,3,25,75,Accesorios
+Monitor,F5837,María Moll Valera,2023-07-14,2,100,200,Periféricos
+Mousepad,F2730,Gastón Julián Romeu,2023-07-19,7,30,210,Accesorios
+Tablet,F1377,Manolo Bermudez Calderon,2023-07-18,2,120,240,Tablets
+Tablet,F5495,Adelia del Arteaga,2023-07-07,10,120,1200,Tablets
+Tablet,F4632,Teodora Aroca Miralles,2023-07-14,8,120,960,Tablets
